@@ -1,0 +1,31 @@
+body {
+    background: gray;
+}
+#header {
+    position: fixed;
+    width: 100%;
+    border: 5px green;
+}
+#header a {
+    float: right;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+    border: black 5px;
+}
+.top-nav-right {
+    float: right;
+    top: 40px;
+    right: 40px;
+    border: red 5px;
+}
+#center-search {
+    float: center;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin: 200px;
+    font-size: 15px;
+    border: 5px yellow;
+}
